@@ -1,4 +1,4 @@
-#### Hi there, I'm Usama Rahman 👋
+# Hi there, I'm Usama Rahman 👋
 
 <!--
 **usama-rahman/usama-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
