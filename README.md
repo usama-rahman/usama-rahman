@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!-- 
 ## You can find in me in the web 🌍
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fbusamarahman) 
 
-### I'm 18 years old Self-taught Front-end developer from Bangladesh.
+### I'm 18 years old Self-taught Front-end developer from Bangladesh. -->
 
 # 💻 Tech & Tools Preference:
 
