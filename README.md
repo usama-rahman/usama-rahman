@@ -77,10 +77,8 @@
   <img src="https://profile-counter.glitch.me/usama-rahman/count.svg?"  />
 </div>
 
-###
-
-
 --- 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usama-rahman&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
