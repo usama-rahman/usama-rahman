@@ -3,13 +3,16 @@
 ## Socila media
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> -->
+  <a href="https://twitter.com/iamusamarahman">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /> -->
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> -->
 </div>
 
 ---
+
 ## 💻 Tech & Tools Preference:
 
 <div align="left">
@@ -70,17 +73,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-
 ---
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/usama-rahman/count.svg?"  />
 </div>
 
---- 
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usama-rahman&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
----
+
+## ![](https://github-readme-stats.vercel.app/api/top-langs/?username=usama-rahman&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 Let's connect 👨‍💻 and forge the future together.😁✌
