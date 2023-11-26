@@ -13,8 +13,6 @@
   <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> -->
 </div>
 
----
-
 ## 💻 Tech & Tools Preference:
 
 <div align="left">
@@ -44,13 +42,9 @@
   <img width="12" />
 </div>
 
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/usama-rahman/count.svg?"  />
 </div>
-
----
 
 # 📊 GitHub Stats:
 
