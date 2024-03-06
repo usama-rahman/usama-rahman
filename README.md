@@ -5,7 +5,7 @@
 ## Social media
 
 <div align="left">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/iamusamarahman) &nbsp;
 </div>
 
 ## 💻 Tech & Tools Preference:
